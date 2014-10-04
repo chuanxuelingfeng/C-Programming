@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DCFED459-EEEA-414E-8426-63D886687304</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CPPlessons</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>238D1802-6CC0-4CD2-867D-545D52B19B1E</key>
+		<string>https://github.com/chuanxuelingfeng/C-Programming.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>code/ide/xcode/CPPlessons.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>238D1802-6CC0-4CD2-867D-545D52B19B1E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chuanxuelingfeng/C-Programming.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>238D1802-6CC0-4CD2-867D-545D52B19B1E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>238D1802-6CC0-4CD2-867D-545D52B19B1E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C-Programming</string>
+		</dict>
+	</array>
+</dict>
+</plist>
